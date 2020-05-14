@@ -1,3 +1,6 @@
+
+@import "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,400&display=swap";
+
 .jumbotron{
     background-color:#2B2A88;
     color:white;
@@ -28,11 +31,6 @@
     color: black;
 }
 
-
-
-
-
-
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
@@ -55,4 +53,8 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: #45a049;
+}
+.img-fluid{
+    width: 200px;
+    height: 200px;
 }
